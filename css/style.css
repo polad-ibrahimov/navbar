@@ -1,0 +1,5 @@
+#button{display: none;}
+#ul-nav{display: block;}
+@media only screen and (max-width : 767px) {#button{display: block;} #ul-nav{display: none;}}
+@media only screen and (max-width : 480px) {#button{display: block;}#ul-nav{display: none;}}
+@media only screen and (max-width : 320px) {#button{display: block;}#ul-nav{display: none;}}
